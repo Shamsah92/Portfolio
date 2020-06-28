@@ -1,0 +1,21 @@
+/*style="color: red; font-family: cursive;"*/
+
+h2 {
+  color: rgba(239, 239, 244, 0.885);
+  font-family: cursive;
+  text-align: center;
+}
+
+body {
+  background-color: rgba(2, 56, 73, 0.872);
+}
+
+.inta {
+  color: rgba(226, 219, 219, 0.872);
+  text-align: left;
+}
+
+#Interests-heading {
+  border: 3px dashed rgba(3, 95, 138, 0.159);
+  padding: 10px;
+}
